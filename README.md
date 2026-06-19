@@ -1,2 +1,1 @@
-# Web-Designing-Workshop-2
-Java Script And React
+# FSD-second-sem-cse-28
