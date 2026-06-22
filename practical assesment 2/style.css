@@ -1,0 +1,68 @@
+body{
+
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#eef2f7;
+
+}
+
+
+.dashboard{
+
+    text-align:center;
+    padding:30px;
+
+}
+
+
+h1{
+
+    color:#222;
+
+}
+
+
+.profile-container{
+
+    display:flex;
+    justify-content:center;
+    gap:40px;
+    margin-top:30px;
+
+}
+
+
+.student-card{
+
+    background:white;
+    width:260px;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0px 5px 15px gray;
+
+}
+
+
+.student-card img{
+
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    object-fit:cover;
+
+}
+
+
+.student-card h2{
+
+    color:#333;
+
+}
+
+
+.student-card p{
+
+    font-size:16px;
+    color:#555;
+
+}
